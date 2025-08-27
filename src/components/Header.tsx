@@ -20,7 +20,6 @@ const Header: React.FC = () => {
           
           <div className="flex items-center space-x-2 px-3 py-1 bg-gradient-to-r from-purple-500/10 to-pink-500/10 rounded-full border border-purple-200/50">
             <Sparkles className="w-4 h-4 text-purple-500" />
-            <span className="text-sm font-medium text-purple-700">AI Powered</span>
           </div>
         </div>
       </div>
