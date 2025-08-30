@@ -133,10 +133,7 @@ const App: React.FC = () => {
                   <div className="w-1.5 h-1.5 bg-purple-500 rounded-full"></div>
                   <span>Neural engine for ultra-realistic speech</span>
                 </li>
-                <li className="flex items-center space-x-2">
-                  <div className="w-1.5 h-1.5 bg-green-500 rounded-full"></div>
-                  <span>Advanced speed & pitch controls</span>
-                </li>
+               
                 <li className="flex items-center space-x-2">
                   <div className="w-1.5 h-1.5 bg-orange-500 rounded-full"></div>
                   <span>Multiple audio format support</span>
