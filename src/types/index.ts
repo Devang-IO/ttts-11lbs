@@ -19,3 +19,10 @@ export interface TextStats {
   words: number;
   estimatedTime: number;
 }
+
+export interface AudioSettings {
+  speed: number;
+  pitch: number;
+  volume: number;
+  format: string;
+}

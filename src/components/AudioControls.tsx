@@ -1,3 +1,4 @@
+// src/components/AudioControls.tsx
 import React from 'react';
 import { Settings, Gauge, Volume2, FileAudio } from 'lucide-react';
 import { AudioSettings } from '../types';
