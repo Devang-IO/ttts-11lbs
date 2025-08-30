@@ -12,7 +12,7 @@ const Header: React.FC = () => {
             </div>
             <div>
               <h1 className="text-xl font-bold bg-gradient-to-r from-gray-900 to-gray-600 bg-clip-text text-transparent">
-                VoiceForge AI
+                Manan's Text To Speech Convert
               </h1>
               <p className="text-xs text-gray-500">Professional Text-to-Speech</p>
             </div>
